@@ -1,0 +1,23 @@
+h1 {
+
+
+font-weight: 200;
+ color: #FF0000; 
+
+}
+
+.product {
+    float: left;
+    margin: 25px;
+    text-align: center;
+}
+.product img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+.product p {
+    margin: 10px 0;
+}
